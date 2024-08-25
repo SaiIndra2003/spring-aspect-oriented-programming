@@ -1,0 +1,1 @@
+This project displays the understanding of spring frame work in detail, including life cycle of spring and aspect oriented programing in spring
